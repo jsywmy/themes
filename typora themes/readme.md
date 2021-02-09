@@ -5,4 +5,5 @@
 3. 将下载好的`vue.css`或`pie.css`文件放到Typora的主题文件夹中；
 
 4. 关闭并重新打开Typora，从菜单上方选择“主题” =>“ Vue ”或“ pie”即可。
+
 具体见typora :https://theme.typora.io/
